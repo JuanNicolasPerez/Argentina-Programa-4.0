@@ -1,1 +1,3 @@
 hola
+
+Punto 7. Modicacion local antes del PULL.
