@@ -1,3 +1,7 @@
 hola
 
+<<<<<<< HEAD
 Punto 7. Modicacion local antes del PULL.
+=======
+2da modificacion
+>>>>>>> 8eea146cac728b28590a9ccd25cf88462aff2c8e
